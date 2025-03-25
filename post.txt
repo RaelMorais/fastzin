@@ -1,0 +1,162 @@
+[
+  {
+		"id": 1, 
+    "name": "Lewis Hamilton",
+    "team_name": "Mercedes-AMG Petronas",
+    "factory_name": "Mercedes",
+    "pilot": "Lewis Hamilton",
+    "sponsor_master": "Petronas"
+  },
+  {
+		"id": 2,
+    "name": "George Russell",
+    "team_name": "Mercedes-AMG Petronas",
+    "factory_name": "Mercedes",
+    "pilot": "George Russell",
+    "sponsor_master": "Petronas"
+  },
+  {
+		"id": 3,
+    "name": "Max Verstappen",
+    "team_name": "Oracle Red Bull Racing",
+    "factory_name": "Red Bull Racing",
+    "pilot": "Max Verstappen",
+    "sponsor_master": "Oracle"
+  },
+  {
+		"id": 4,
+    "name": "Sergio Pérez",
+    "team_name": "Oracle Red Bull Racing",
+    "factory_name": "Red Bull Racing",
+    "pilot": "Sergio Pérez",
+    "sponsor_master": "Oracle"
+  },
+  {
+		"id":5,
+    "name": "Charles Leclerc",
+    "team_name": "Scuderia Ferrari",
+    "factory_name": "Ferrari",
+    "pilot": "Charles Leclerc",
+    "sponsor_master": "Shell"
+  },
+  {
+		"id": 6,
+    "name": "Carlos Sainz",
+    "team_name": "Scuderia Ferrari",
+    "factory_name": "Ferrari",
+    "pilot": "Carlos Sainz",
+    "sponsor_master": "Shell"
+  },
+  {
+		"id": 7,
+    "name": "Lando Norris",
+    "team_name": "McLaren F1 Team",
+    "factory_name": "McLaren",
+    "pilot": "Lando Norris",
+    "sponsor_master": "Gulf"
+  },
+  {
+		"id": 8,
+    "name": "Oscar Piastri",
+    "team_name": "McLaren F1 Team",
+    "factory_name": "McLaren",
+    "pilot": "Oscar Piastri",
+    "sponsor_master": "Gulf"
+  },
+  {
+		"id": 9,
+    "name": "Fernando Alonso",
+    "team_name": "Aston Martin Aramco Cognizant",
+    "factory_name": "Aston Martin",
+    "pilot": "Fernando Alonso",
+    "sponsor_master": "Aramco"
+  },
+  {
+		"id": 10,
+    "name": "Lance Stroll",
+    "team_name": "Aston Martin Aramco Cognizant",
+    "factory_name": "Aston Martin",
+    "pilot": "Lance Stroll",
+    "sponsor_master": "Aramco"
+  },
+  {
+		"id": 11,
+    "name": "Pierre Gasly",
+    "team_name": "BWT Alpine F1 Team",
+    "factory_name": "Alpine",
+    "pilot": "Pierre Gasly",
+    "sponsor_master": "BWT"
+  },
+  {
+		"id": 12,
+    "name": "Esteban Ocon",
+    "team_name": "BWT Alpine F1 Team",
+    "factory_name": "Alpine",
+    "pilot": "Esteban Ocon",
+    "sponsor_master": "BWT"
+  },
+  {
+		"id": 13,
+    "name": "Alexander Albon",
+    "team_name": "Williams Racing",
+    "factory_name": "Williams",
+    "pilot": "Alexander Albon",
+    "sponsor_master": "Gulf"
+  },
+  {
+		"id": 14,
+    "name": "Logan Sargeant",
+    "team_name": "Williams Racing",
+    "factory_name": "Williams",
+    "pilot": "Logan Sargeant",
+    "sponsor_master": "Gulf"
+  },
+  {
+		"id": 15,
+    "name": "Valtteri Bottas",
+    "team_name": "Stake F1 Team Kick Sauber",
+    "factory_name": "Sauber",
+    "pilot": "Valtteri Bottas",
+    "sponsor_master": "Stake"
+  },
+  {
+		"id": 16,
+    "name": "Zhou Guanyu",
+    "team_name": "Stake F1 Team Kick Sauber",
+    "factory_name": "Sauber",
+    "pilot": "Zhou Guanyu",
+    "sponsor_master": "Stake"
+  },
+  {
+		"id": 17,
+    "name": "Kevin Magnussen",
+    "team_name": "MoneyGram Haas F1 Team",
+    "factory_name": "Haas",
+    "pilot": "Kevin Magnussen",
+    "sponsor_master": "MoneyGram"
+  },
+  {
+		"id": 18,
+    "name": "Nico Hulkenberg",
+    "team_name": "MoneyGram Haas F1 Team",
+    "factory_name": "Haas",
+    "pilot": "Nico Hulkenberg",
+    "sponsor_master": "MoneyGram"
+  },
+  {
+		"id": 19,
+    "name": "Yuki Tsunoda",
+    "team_name": "Visa Cash App RB F1 Team",
+    "factory_name": "RB",
+    "pilot": "Yuki Tsunoda",
+    "sponsor_master": "Visa"
+  },
+  {
+		"id": 20,
+    "name": "Daniel Ricciardo",
+    "team_name": "Visa Cash App RB F1 Team",
+    "factory_name": "RB",
+    "pilot": "Daniel Ricciardo",
+    "sponsor_master": "Visa"
+  }
+]
